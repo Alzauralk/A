@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-image: url("./ismi.png");
+  background-repeat: no-repeat;
+}
+button {
+  background-color: red;
+  color: aquamarine;
+  width: 50%;
+  height: 50px;
+}
+.alert {
+  background-color: red;
+}
